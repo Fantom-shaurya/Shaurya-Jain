@@ -1,0 +1,126 @@
+body{
+  text-align:center;
+ 
+   
+}
+#heading{
+    font-size: 80px !important;
+    line-height: 1.2 !important;
+    font-family: 'Monoton', cursive !important;
+    text-align: center !important;
+}
+#profile{
+  border-radius:100%;
+  width:380px;
+  height:380px;
+  text-align:center;
+margin-top:50px;
+  right:20px;
+}
+p{
+    font-size:40px;
+    margin-bottom: 200px;
+    font-family: 'Dancing Script', cursive !important;
+}
+
+.line{
+    height:6px;
+    width:70px;
+    margin:8px auto;
+    background-color: #000; }
+#info{
+    
+  
+}
+h2{
+    font-size:30px;
+     font-family: monospace !important;
+}
+
+#home{
+background: linear-gradient(to bottom, #ff0000 0%, #ffcc00 100%);
+      
+}
+
+
+
+li:hover {
+    
+    font-size: 20px;
+    color: darkblue;
+}
+
+li{
+    font-family: fantasy;
+    font-weight: bold;
+
+}
+
+.menu {
+    position: fixed;
+    font-family: sans-serif;
+    font-weight: 600;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 30;
+}
+img:hover{
+   transform: scale(0.92);
+}
+#inspiration{text-align: center;
+     
+    font-family: cursive;}
+.img{
+    width:500px;
+    height:400px;
+    margin-left: 100px;
+    border:10px solid aqua;
+    border-radius: 30%;
+    top:300px;
+}
+ai{
+    background-color: firebrick;
+    text-align: center;
+    
+    font-size: 25px;
+    
+        
+
+}
+
+.div{
+  margin-top: 100px;  
+}
+
+#contact{
+    background-color: firebrick;
+    height:auto;
+}
+inspiration{
+    height: auto;
+}
+navbar-inverse{
+    position:sticky !important;
+    top:0 !important;
+    z-index:99999 !important;
+    position:fixed !important;
+}
+.navbar-brand{
+    font-family: 'Fredericka the Great', cursive !important;
+}
+html{
+    scroll-behavior: smooth;
+}
+#text{
+    font-family: 'Monoton', cursive !important; 
+}
+h1{
+    font-size: 60px !important;
+    line-height: 1.2 !important;
+    font-family: 'Monoton', cursive !important;
+    text-align: center !important;
+}
+#role{
+    background: linear-gradient(to bottom, #ffff00 0%, #ffffff 100%);;
+}
